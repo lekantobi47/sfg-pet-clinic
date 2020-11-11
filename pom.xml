@@ -19,8 +19,8 @@
 	</properties>
 	
 	<scm>
-		<developerConnection>scm:git:git@github.com:lekantobi47/sfg-pet-clinic.git</developerConnection>
-		<tag>HEAD</tag>
+		<url>https://github.com/lekantobi47/sfg-pet-clinic</url>
+		<connection>scm:git:https://github.com/lekantobi47/sfg-pet-clinic.git</connection>
 	</scm>
 	
 	<build>
